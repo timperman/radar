@@ -1,0 +1,5 @@
+name,ring,quadrant,isNew,description
+placeholder tool,hold,tools,FALSE,"No issues with the label 'tool' found."
+placeholder technique,hold,techniques,FALSE,"No issues with the label 'technique' found."
+placeholder language,hold,languages,FALSE,"No issues with the label 'language' found."
+placeholder platform,hold,platforms,FALSE,"No issues with the label 'platform' found."
