@@ -34,5 +34,5 @@ We maintain technologies via the [issues][issues page] of this repository.
 <!-- generated list end -->
 
 [tech radar]: https://radar.thoughtworks.com/
-[issues page]: https://github.com/timperman/radar/issues
+[issues page]: ./issues
 [new issue]: https://github.com/timperman/radar/issues/new/choose
