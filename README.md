@@ -35,17 +35,18 @@ Coming soon!
 ### Build
 | Technology | Status | Type | Description |
 |---|---|---|---|
-| 🆕 Docker | ✅ Adopt | Tool | Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. |
+| [🆕 Docker](https://github.com/timperman/radar/issues/24) | ✅ Adopt | Tool | Docker is a set of platform as a service products that use OS-level virtualization<br> to deliver software in packages called containers. |
+| [🆕 TeamCity](https://github.com/timperman/radar/issues/22) | 🛑 Hold | Tool | TeamCity is a build management and continuous integration server from JetBrains. |
 
 ### Deploy
 | Technology | Status | Type | Description |
 |---|---|---|---|
-| 🆕 Docker | ✅ Adopt | Tool | Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. |
+| [🆕 Docker](https://github.com/timperman/radar/issues/24) | ✅ Adopt | Tool | Docker is a set of platform as a service products that use OS-level virtualization<br> to deliver software in packages called containers. |
 
 ### Platform
 | Technology | Status | Type | Description |
 |---|---|---|---|
-| 🆕 PCF | ✅ Adopt | Platform | Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized workloads across private and public clouds.  |
+| [🆕 PCF](https://github.com/timperman/radar/issues/21) | ✅ Adopt | Platform | Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized<br> workloads across private and public clouds.  |
 <!-- generated list end -->
 
 [tech radar]: https://radar.thoughtworks.com/
