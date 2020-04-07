@@ -30,7 +30,8 @@ Coming soon!
 We maintain technologies via the [issues][issues page] of this repository.
 
 <!-- generated list -->
-
+## Technologies
+**The technologies on this radar are maintained in the [issues](https://github.com/timperman/radar/issues) of this repository.**
 <!-- generated list end -->
 
 [tech radar]: https://radar.thoughtworks.com/
