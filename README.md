@@ -47,6 +47,7 @@ Coming soon!
 | Technology | Status | Type | Description |
 |---|---|---|---|
 | [🆕 PCF](https://github.com/timperman/radar/issues/21) | ✅ Adopt | Platform | Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized<br> workloads across private and public clouds.  |
+| [🆕 Kubernetes](https://github.com/timperman/radar/issues/20) | 📊 Trial | Platform | Kubernetes (K8s) is an open-source system for automating deployment, scaling, and<br> management of containerized applications. https://kubernetes.io |
 <!-- generated list end -->
 
 [tech radar]: https://radar.thoughtworks.com/
