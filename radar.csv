@@ -2,5 +2,6 @@ name,ring,quadrant,isNew,description
 Docker,adopt,"Tools",TRUE,"<p>Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.</p>"
 PCF,adopt,"Platforms",TRUE,"<p>Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized workloads across private and public clouds. </p>"
 Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here.</p>"
+TeamCity,hold,"Tools",TRUE,"<p>TeamCity is a build management and continuous integration server from JetBrains.</p>"
 placeholder technique,hold,"Techniques",FALSE,"No issues with the label 'technique' found."
 placeholder language,hold,"Languages & Frameworks",FALSE,"No issues with the label 'language' or 'framework' found."
