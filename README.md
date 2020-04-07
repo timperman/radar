@@ -22,6 +22,8 @@
 ## Radar views
 📡 [Technology radar][tech radar]
 
+### ✅ Adopt
+
 ### Updates
 
 *How do we keep tracked technologies up-to-date and in the appropriate status?*
@@ -35,7 +37,7 @@ Coming soon!
 ### Build
 | Technology | Status | Type | Description |
 |---|---|---|---|
-| [🆕 Docker](https://github.com/timperman/radar/issues/24) | ✅ Adopt | Tool | Docker is a set of platform as a service products that<br> use OS-level virtualization to deliver software in<br> packages called containers. |
+| [🆕 Docker](https://github.com/timperman/radar/issues/24) | [✅ Adopt](#✅-Adopt) | Tool | Docker is a set of platform as a service products that<br> use OS-level virtualization to deliver software in<br> packages called containers. |
 | [🆕 GitHub Actions](https://github.com/timperman/radar/issues/14) | 🔍 Assess | Tool | GitHub Actions enables you to create custom software<br> development life cycle (SDLC) workflows (including<br> CI/CD) directly in your GitHub repository. |
 | [🆕 TeamCity](https://github.com/timperman/radar/issues/22) | 🛑 Hold | Tool | TeamCity is a build management and continuous integration<br> server from JetBrains. |
 
