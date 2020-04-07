@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
 TeamCity,hold,"Tools",TRUE,"<p>TeamCity is a build management and continuous integration server from JetBrains.</p>"
-GitLab,hold,"Tools",TRUE,"<p>GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features.</p>"
+GitLab,assess,"Tools",TRUE,"<p>GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features.</p>"
 GitHub Actions,assess,"Tools",TRUE,"<p>GitHub Actions enables you to create custom software development life cycle (SDLC) workflows (including CI/CD) directly in your GitHub repository.</p>"
 Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here.</p>"
 Kubernetes,trial,"Platforms",TRUE,"<p>Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. <a href=\"https://kubernetes.io\">https://kubernetes.io</a></p>"
