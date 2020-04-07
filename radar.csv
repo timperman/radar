@@ -3,6 +3,7 @@ Docker,adopt,"Tools",TRUE,"<p>Docker is a set of platform as a service products 
 PCF,adopt,"Platforms",TRUE,"<p>Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized workloads across private and public clouds. </p>"
 Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here.</p>"
 Kubernetes,trial,"Platforms",TRUE,"<p>Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. <a href=\"https://kubernetes.io\">https://kubernetes.io</a></p>"
+GitHub Actions,assess,"Tools",TRUE,"<p>GitHub Actions enables you to create custom software development life cycle (SDLC) workflows (including CI/CD) directly in your GitHub repository.</p>"
 TeamCity,hold,"Tools",TRUE,"<p>TeamCity is a build management and continuous integration server from JetBrains.</p>"
 placeholder technique,hold,"Techniques",FALSE,"No issues with the label 'technique' found."
 placeholder language,hold,"Languages & Frameworks",FALSE,"No issues with the label 'language' or 'framework' found."
