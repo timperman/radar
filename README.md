@@ -12,6 +12,8 @@
 - [Update a technology](#Updates)
 <!-- generated index -->
 - [Technologies](#Technologies)
+  - [Build](#Build)
+  - [Deploy](#Deploy)
 <!-- generated index end -->
 
 <!-- tocstop -->
@@ -28,6 +30,16 @@ Coming soon!
 <!-- generated list -->
 ## Technologies
 **The technologies on this radar are maintained in the [issues](https://github.com/timperman/radar/issues) of this repository.**
+
+### Build
+| Technology | Status | Type | Description |
+|---|---|---|---|
+| 🆕 Docker | ✅ Adopt | Tool | Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. |
+
+### Deploy
+| Technology | Status | Type | Description |
+|---|---|---|---|
+| 🆕 Docker | ✅ Adopt | Tool | Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. |
 <!-- generated list end -->
 
 [tech radar]: https://radar.thoughtworks.com/
