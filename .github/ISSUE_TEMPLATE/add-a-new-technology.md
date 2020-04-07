@@ -1,9 +1,10 @@
 ---
 name: Add a new technology
 about: Add a new technology to start an assessment
-title: "Technology name"
-labels: assess
+title: Technology name
+labels: assess, technology
 assignees: timperman
+
 ---
 
 Provide a short description of the technology here.
