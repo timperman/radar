@@ -43,6 +43,7 @@ Coming soon!
 | Technology | Status | Type | Description |
 |---|---|---|---|
 | [🆕 Docker](https://github.com/timperman/radar/issues/24) | ✅ Adopt | Tool | Docker is a set of platform as a service products that<br> use OS-level virtualization to deliver software in<br> packages called containers. |
+| [🆕 TeamCity](https://github.com/timperman/radar/issues/22) | 🛑 Hold | Tool | TeamCity is a build management and continuous integration<br> server from JetBrains. |
 
 ### Platform
 | Technology | Status | Type | Description |
