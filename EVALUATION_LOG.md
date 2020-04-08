@@ -22,3 +22,16 @@
 **Results**
 <!-- generated evaluation #3 results -->
 <!-- generated evaluation #3 results end -->
+
+
+## [Evaluate Go and Rust again](https://github.com/timperman/radar/issues/33)
+
+**Technologies**
+| Name | Status |
+|---|---|
+| [Rust](https://github.com/timperman/radar/issues/27) | 🔍 Assess |
+| [Go](https://github.com/timperman/radar/issues/11) | 📊 Trial |
+
+**Results**
+<!-- generated evaluation #33 results -->
+<!-- generated evaluation #33 results end -->
