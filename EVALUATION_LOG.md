@@ -9,3 +9,14 @@
 | [GitHub Actions](https://github.com/timperman/radar/issues/14) | 🔍 Assess |
 
 **Results**
+
+
+## [Evaluate Rust and Go](https://github.com/timperman/radar/issues/31)
+
+**Technologies**
+| Name | Status |
+|---|---|
+| [Go](https://github.com/timperman/radar/issues/11) | 📊 Trial |
+| [Rust](https://github.com/timperman/radar/issues/27) | 🔍 Assess |
+
+**Results**
