@@ -5,6 +5,7 @@ PCF,adopt,"Platforms",TRUE,"<p>Pivotal Cloud Foundry (PCF) allows users to relia
 Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here.</p>"
 Azure DevOps Pipelines,trial,"Tools",TRUE,"<p>Azure Pipelines is a fully featured continuous integration (CI) and continuous delivery (CD) service. It works with your preferred Git provider and can deploy to most major cloud services, which include Azure services.</p>"
 Queue test,trial,"Languages & Frameworks",TRUE,"<p>Provide a short description of the technology here.</p>"
+Go,trial,"Languages & Frameworks",TRUE,"<p>Go, also known as Golang, is a statically typed, compiled programming language designed at Google. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.</p>\n<p><a href=\"https://confluence.kroger.com/confluence/display/SA/Go\">https://confluence.kroger.com/confluence/display/SA/Go</a></p>"
 Kubernetes,trial,"Platforms",TRUE,"<p>Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. <a href=\"https://kubernetes.io\">https://kubernetes.io</a></p>"
 GitHub Actions,assess,"Tools",TRUE,"<p>GitHub Actions enables you to create custom software development life cycle (SDLC) workflows (including CI/CD) directly in your GitHub repository.</p>"
 Rust,assess,"Languages & Frameworks",TRUE,"<p>Provide a short description of the technology here.</p>"
