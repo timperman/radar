@@ -6,7 +6,7 @@ Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here
 Azure DevOps Pipelines,trial,"Tools",TRUE,"<p>Azure Pipelines is a fully featured continuous integration (CI) and continuous delivery (CD) service. It works with your preferred Git provider and can deploy to most major cloud services, which include Azure services.</p>"
 Kubernetes,trial,"Platforms",TRUE,"<p>Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. <a href=\"https://kubernetes.io\">https://kubernetes.io</a></p>"
 GitHub Actions,assess,"Tools",TRUE,"<p>GitHub Actions enables you to create custom software development life cycle (SDLC) workflows (including CI/CD) directly in your GitHub repository.</p>"
+Rust,assess,"Languages & Frameworks",TRUE,"<p>Provide a short description of the technology here.</p>"
 TeamCity,hold,"Tools",TRUE,"<p>TeamCity is a build management and continuous integration server from JetBrains.</p>"
 GitLab,hold,"Tools",TRUE,"<p>GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features.</p>"
 placeholder technique,hold,"Techniques",FALSE,"No issues with the label 'technique' found."
-placeholder language,hold,"Languages & Frameworks",FALSE,"No issues with the label 'language' or 'framework' found."
