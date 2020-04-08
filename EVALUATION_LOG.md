@@ -34,4 +34,6 @@
 
 **Results**
 <!-- generated evaluation #33 results -->
+- Merged evaluation pull request [Evaluate Go and Rust again](https://github.com/timperman/radar/pull/34)
+- Selected [Rust](https://github.com/timperman/radar/issues/27) to **📊 Trial**
 <!-- generated evaluation #33 results end -->
