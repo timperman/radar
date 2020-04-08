@@ -3,6 +3,7 @@ Docker,adopt,"Tools",FALSE,"<p>Docker is a set of platform as a service products
 GitHub,adopt,"Tools",FALSE,"<p>GitHub provides hosting for software development version control using Git. It is a subsidiary of Microsoft, which acquired the company in 2018 for $7.5 billion. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.</p>"
 PCF,adopt,"Platforms",FALSE,"<p>Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized workloads across private and public clouds. </p>"
 Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here.</p>"
+Zipkin,trial,"Tools",TRUE,"<p>Zipkin is an open source tracing system. It is used to monitor and troubleshoot latency problems in distributed service architectures.</p>"
 Azure DevOps Pipelines,trial,"Tools",FALSE,"<p>Azure Pipelines is a fully featured continuous integration (CI) and continuous delivery (CD) service. It works with your preferred Git provider and can deploy to most major cloud services, which include Azure services.</p>"
 Queue test,trial,"Languages & Frameworks",TRUE,"<p>Provide a short description of the technology here.</p>"
 Rust,trial,"Languages & Frameworks",TRUE,"<p>Provide a short description of the technology here.</p>"
