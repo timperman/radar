@@ -20,12 +20,12 @@ GitLab
   tags:tool
 
 [Build]
-Azure DevOps Pipelines
-  status:trial
+Docker
+  status:adopt
   tags:tool
 
-Docker
-  status:assess
+Azure DevOps Pipelines
+  status:trial
   tags:tool
 
 GitHub Actions
@@ -38,7 +38,7 @@ TeamCity
 
 [Deploy]
 Docker
-  status:assess
+  status:adopt
   tags:tool
 
 GitHub Actions
