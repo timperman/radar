@@ -1,0 +1,59 @@
+[Code]
+GitHub
+  status:adopt
+  tags:tool
+
+Queue test
+  status:trial
+  tags:language
+
+Rust
+  status:trial
+  tags:language
+
+Go
+  status:trial
+  tags:language
+
+GitLab
+  status:hold
+  tags:tool
+
+[Build]
+Docker
+  status:adopt
+  tags:tool
+
+Azure DevOps Pipelines
+  status:trial
+  tags:tool
+
+GitHub Actions
+  status:assess
+  tags:tool
+
+TeamCity
+  status:hold
+  tags:tool
+
+[Deploy]
+Docker
+  status:adopt
+  tags:tool
+
+GitHub Actions
+  status:assess
+  tags:tool
+
+TeamCity
+  status:hold
+  tags:tool
+
+[Platform]
+PCF
+  status:adopt
+  tags:
+
+Kubernetes
+  status:trial
+  tags:
