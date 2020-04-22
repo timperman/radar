@@ -47,15 +47,15 @@ Coming soon!
 ### Build
 | Technology | Status | Type | Description |
 |---|---|---|---|
+| 🆕 [Docker](https://github.com/timperman/radar/issues/24) | [✅ Adopt](CONTRIBUTING.md#-Adopt) | Tool | Docker is a set of platform as a service products<br> that use OS-level virtualization to deliver<br> software in packages called containers. |
 | [Azure DevOps Pipelines](https://github.com/timperman/radar/issues/12) | [📊 Trial](CONTRIBUTING.md#-Trial) | Tool | Azure Pipelines is a fully featured continuous<br> integration (CI) and continuous delivery (CD)<br> service. It works with your preferred Git<br> provider and can deploy to most major cloud<br> services, which include Azure services. |
-| 🆕 [Docker](https://github.com/timperman/radar/issues/24) | [🔍 Assess](CONTRIBUTING.md#-Assess) | Tool | Docker is a set of platform as a service products<br> that use OS-level virtualization to deliver<br> software in packages called containers. |
 | [GitHub Actions](https://github.com/timperman/radar/issues/14) | [🔍 Assess](CONTRIBUTING.md#-Assess) | Tool | GitHub Actions enables you to create custom<br> software development life cycle (SDLC) workflows<br> (including CI/CD) directly in your GitHub<br> repository. |
 | [TeamCity](https://github.com/timperman/radar/issues/22) | [🛑 Hold](CONTRIBUTING.md#-Hold) | Tool | TeamCity is a build management and continuous<br> integration server from JetBrains. |
 
 ### Deploy
 | Technology | Status | Type | Description |
 |---|---|---|---|
-| 🆕 [Docker](https://github.com/timperman/radar/issues/24) | [🔍 Assess](CONTRIBUTING.md#-Assess) | Tool | Docker is a set of platform as a service products<br> that use OS-level virtualization to deliver<br> software in packages called containers. |
+| 🆕 [Docker](https://github.com/timperman/radar/issues/24) | [✅ Adopt](CONTRIBUTING.md#-Adopt) | Tool | Docker is a set of platform as a service products<br> that use OS-level virtualization to deliver<br> software in packages called containers. |
 | [GitHub Actions](https://github.com/timperman/radar/issues/14) | [🔍 Assess](CONTRIBUTING.md#-Assess) | Tool | GitHub Actions enables you to create custom<br> software development life cycle (SDLC) workflows<br> (including CI/CD) directly in your GitHub<br> repository. |
 | [TeamCity](https://github.com/timperman/radar/issues/22) | [🛑 Hold](CONTRIBUTING.md#-Hold) | Tool | TeamCity is a build management and continuous<br> integration server from JetBrains. |
 
