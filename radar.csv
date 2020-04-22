@@ -1,4 +1,5 @@
 name,ring,quadrant,isNew,description
+Docker,adopt,"Tools",TRUE,"<p>Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.</p>"
 GitHub,adopt,"Tools",FALSE,"<p>GitHub provides hosting for software development version control using Git. It is a subsidiary of Microsoft, which acquired the company in 2018 for $7.5 billion. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.</p>"
 PCF,adopt,"Platforms",FALSE,"<p>Pivotal Cloud Foundry (PCF) allows users to reliably deploy and run containerized workloads across private and public clouds. </p>"
 Shiny,trial,"Tools",FALSE,"<p>Provide a short description of the technology here.</p>"
@@ -8,7 +9,6 @@ Queue test,trial,"Languages & Frameworks",FALSE,"<p>Provide a short description 
 Rust,trial,"Languages & Frameworks",FALSE,"<p>Provide a short description of the technology here.</p>"
 Go,trial,"Languages & Frameworks",FALSE,"<p>Go, also known as Golang, is a statically typed, compiled programming language designed at Google. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.</p>\n<p><a href=\"https://confluence.kroger.com/confluence/display/SA/Go\">https://confluence.kroger.com/confluence/display/SA/Go</a></p>"
 Kubernetes,trial,"Platforms",FALSE,"<p>Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. <a href=\"https://kubernetes.io\">https://kubernetes.io</a></p>"
-Docker,assess,"Tools",TRUE,"<p>Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.</p>"
 GitHub Actions,assess,"Tools",FALSE,"<p>GitHub Actions enables you to create custom software development life cycle (SDLC) workflows (including CI/CD) directly in your GitHub repository.</p>"
 TeamCity,hold,"Tools",FALSE,"<p>TeamCity is a build management and continuous integration server from JetBrains.</p>"
 GitLab,hold,"Tools",FALSE,"<p>GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features.</p>"
